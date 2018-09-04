@@ -1,0 +1,24 @@
+<div class="clearfix formDiv">
+  <div class="row spacing">
+    <div class="col-md-12">
+      <label>{{ TitleLabel }}</label>
+      <input type="text" class="form-control" [(ngModel)]="blogTitle" name="blogTitle"  id="txtTitle" placeholder="Enter title">
+    </div>
+  </div>
+  <div class="row spacing">
+    <div class="col-md-12">
+      <label for="exampleInputPassword1">{{ DescriptionLabel }}</label>
+      <textarea name="blogContent" [(ngModel)]="blogContent" class="form-control description" id="txtDescription" placeholder="Description"></textarea>
+    </div>
+  </div>
+  <div class="row spacing">
+    <div class="col-md-12">
+      <input type="file" #fileInput id="imageFile"/>
+    </div>
+  </div>
+  <div class="row spacing">
+    <div class="col-md-12">
+      <button id="addbtn" type="button" (click)="addPost(this.adminService)" class="btn btn-primary">Add</button>
+    </div>
+  </div>
+</div>

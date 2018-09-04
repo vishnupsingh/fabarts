@@ -1,0 +1,37 @@
+.root {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.no-gutters {
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.parentdiv {
+    flex: 1;
+    border: 1px solid grey;
+    padding: 5px;
+    background-color: beige;
+    height: 400px;
+    overflow: hidden;
+    border-radius: 5px;
+}
+
+.image {
+    height: 340px;
+    width: 100%;
+}
+
+.header {
+    height: 40px;
+}
+
+.summaryTextCol {
+    text-align: center;
+    margin: 100px 50px 50px 50px;
+}
+
+.headerCol {
+    text-align: center;
+}

@@ -1,0 +1,11 @@
+<!-- <button (click)=" toggleMenu() " class="hamburger ">
+        <span>toggle menu</span>
+            </button>
+<app-top-navbar [@slideInOut]="menuState "></app-top-navbar> -->
+<div class="container-fluid headerNav">
+    <app-header></app-header>
+</div>
+<div class="container pt-3 h-100">
+    <router-outlet class="d-flex flex-column h-100"></router-outlet>
+</div>
+<app-footer></app-footer>

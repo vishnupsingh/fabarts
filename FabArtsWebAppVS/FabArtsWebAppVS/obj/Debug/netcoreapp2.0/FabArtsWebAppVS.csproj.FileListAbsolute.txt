@@ -1,0 +1,11 @@
+C:\Users\Vishnu Pratap Singh\Desktop\FabartsProject\FabArtsWebAppVS\FabArtsWebAppVS\obj\Debug\netcoreapp2.0\FabArtsWebAppVS.csprojAssemblyReference.cache
+C:\Users\Vishnu Pratap Singh\Desktop\FabartsProject\FabArtsWebAppVS\FabArtsWebAppVS\obj\Debug\netcoreapp2.0\FabArtsWebAppVS.csproj.CoreCompileInputs.cache
+C:\Users\Vishnu Pratap Singh\Desktop\FabartsProject\FabArtsWebAppVS\FabArtsWebAppVS\obj\Debug\netcoreapp2.0\FabArtsWebAppVS.AssemblyInfoInputs.cache
+C:\Users\Vishnu Pratap Singh\Desktop\FabartsProject\FabArtsWebAppVS\FabArtsWebAppVS\obj\Debug\netcoreapp2.0\FabArtsWebAppVS.AssemblyInfo.cs
+C:\Users\Vishnu Pratap Singh\Desktop\FabartsProject\FabArtsWebAppVS\FabArtsWebAppVS\bin\Debug\netcoreapp2.0\FabArtsWebAppVS.deps.json
+C:\Users\Vishnu Pratap Singh\Desktop\FabartsProject\FabArtsWebAppVS\FabArtsWebAppVS\bin\Debug\netcoreapp2.0\FabArtsWebAppVS.runtimeconfig.json
+C:\Users\Vishnu Pratap Singh\Desktop\FabartsProject\FabArtsWebAppVS\FabArtsWebAppVS\bin\Debug\netcoreapp2.0\FabArtsWebAppVS.runtimeconfig.dev.json
+C:\Users\Vishnu Pratap Singh\Desktop\FabartsProject\FabArtsWebAppVS\FabArtsWebAppVS\bin\Debug\netcoreapp2.0\FabArtsWebAppVS.dll
+C:\Users\Vishnu Pratap Singh\Desktop\FabartsProject\FabArtsWebAppVS\FabArtsWebAppVS\bin\Debug\netcoreapp2.0\FabArtsWebAppVS.pdb
+C:\Users\Vishnu Pratap Singh\Desktop\FabartsProject\FabArtsWebAppVS\FabArtsWebAppVS\obj\Debug\netcoreapp2.0\FabArtsWebAppVS.dll
+C:\Users\Vishnu Pratap Singh\Desktop\FabartsProject\FabArtsWebAppVS\FabArtsWebAppVS\obj\Debug\netcoreapp2.0\FabArtsWebAppVS.pdb

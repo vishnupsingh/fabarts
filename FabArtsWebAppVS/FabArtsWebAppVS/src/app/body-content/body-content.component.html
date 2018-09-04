@@ -1,0 +1,4 @@
+<div *ngFor="let summary of summaryList; let i = index">
+    <app-summary *ngIf="i%2==0" [summary]="summary"></app-summary>
+    <app-summary-right *ngIf="i%2!=0" [summary]="summary"></app-summary-right>
+</div>
